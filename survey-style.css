@@ -1248,8 +1248,8 @@ p, ul, li, span, label, section, article {
 a {
   font-size: 20px;
   font-weight: 800;
-  color: #DD2211;
-  text-decoration: none;
+  color: #DD2211 !important;
+  text-decoration: none !important;
   cursor: pointer;
 }
 /* line 166, ../sass/typography.scss */
